@@ -1,7 +1,7 @@
-set :application, "maisarvoresdashboard"
+set :application, "dashboard"
 set :repository,  "https://github.com/alvarowolfx/Dashboard-Mais-Arvores.git"
 set :scm, :git
-set :deploy_to, "/home/alvarowolfx/webapps/maisarvoresdashboard"
+set :deploy_to, "/home/alvarowolfx/webapps/dashboard"
 
 role :web, "alvarowolfx.webfactional.com"                          
 role :app, "alvarowolfx.webfactional.com"
