@@ -15,26 +15,26 @@ buzzwords: |+
   data: {"items":[{"label":"Enterprise","value":7},{"label":"Paradigm shift","value":5},{"label":"Turn-key","value":9},{"label":"Streamlininess","value":9},{"label":"Exit strategy","value":9},{"label":"Leverage","value":5},{"label":"Pivoting","value":5},{"label":"Web 2.0","value":4},{"label":"Synergy","value":5}],"id":"buzzwords","updatedAt":1380329800}
 
 qtde_arvores: |+
-  data: {"current":738,"id":"qtde_arvores","updatedAt":1380340560}
+  data: {"current":738,"last":0,"id":"qtde_arvores","updatedAt":1380341166}
 
 ranking: |+
-  data: {"items":[{"label":"Roberta Daniela","value":100},{"label":"Grupo Mtbroker Mato Grosso","value":63},{"label":"Marcelo Moreira","value":62},{"label":"Lauro Ojeda","value":57},{"label":"Breno de Oliveira","value":50}],"id":"ranking","updatedAt":1380340560}
+  data: {"items":[{"label":"Roberta Daniela","value":100},{"label":"Grupo Mtbroker Mato Grosso","value":63},{"label":"Marcelo Moreira","value":62},{"label":"Lauro Ojeda","value":57},{"label":"Breno de Oliveira","value":50}],"id":"ranking","updatedAt":1380341166}
 
 facebook_likes: |+
-  data: {"current":3371,"id":"facebook_likes","updatedAt":1380340807}
+  data: {"current":3371,"id":"facebook_likes","updatedAt":1380341166}
 
 facebook_checkins: |+
-  data: {"current":null,"id":"facebook_checkins","updatedAt":1380340807}
+  data: {"current":null,"id":"facebook_checkins","updatedAt":1380341166}
 
 facebook_were_here_count: |+
-  data: {"current":0,"id":"facebook_were_here_count","updatedAt":1380340807}
+  data: {"current":0,"id":"facebook_were_here_count","updatedAt":1380341166}
 
 facebook_talking_about_count: |+
-  data: {"current":1433,"id":"facebook_talking_about_count","updatedAt":1380340807}
+  data: {"current":1433,"id":"facebook_talking_about_count","updatedAt":1380341166}
 
 top_plant: |+
-  data: {"comments":[{"name":"Lauro","body":56,"avatar":"http://graph.facebook.com/616883527/picture?type=small"}],"id":"top_plant","updatedAt":1380340560}
+  data: {"comments":[{"name":"Lauro","body":56,"avatar":"http://graph.facebook.com/616883527/picture?type=small"}],"id":"top_plant","updatedAt":1380341166}
 
 qtde_carbono: |+
-  data: {"current":110700,"id":"qtde_carbono","updatedAt":1380340560}
+  data: {"current":110700,"last":0,"id":"qtde_carbono","updatedAt":1380341166}
 

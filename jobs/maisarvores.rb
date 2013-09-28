@@ -55,8 +55,8 @@ SCHEDULER.every '30s', :first_in => 0 do |job|
     last_qtde_carbono = current_qtde_carbono
     current_qtde_arvores = client.qtde_arvores
     current_qtde_carbono = current_qtde_arvores * 150
-    send_event('qtde_arvores', { current: current_qtde_arvores } , last: last_qtde_arvores })
-    send_event('qtde_carbono', { current: current_qtde_carbono } , last: last_qtde_carbono })
+    send_event('qtde_arvores', { current: current_qtde_arvores  , last: last_qtde_arvores })
+    send_event('qtde_carbono', { current: current_qtde_carbono  , last: last_qtde_carbono })
     send_event('ranking', { items: client.ranking })
     send_event('top_plant', {comments: client.top_plantador })
 end
