@@ -1,0 +1,26 @@
+<% content_for :title do %>Dashboard Mais Arvores<% end %>
+<script type='text/javascript'>
+$(function() {
+Dashing.gridsterLayout('[{"col":1,"row":1,"size_x":2,"size_y":1},{"col":3,"row":1,"size_x":2,"size_y":1},{"col":1,"row":2,"size_x":2,"size_y":1},{"col":3,"row":2,"size_x":1,"size_y":1},{"col":4,"row":2,"size_x":1,"size_y":1}]')
+});
+</script>
+<div class="gridster">
+  <ul>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="qtde_arvores" data-view="Number" data-title="Quantidade de arvores" data-moreinfo="Arvores"></div>
+    </li>
+	<li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="qtde_carbono" data-view="Number" data-title="Se foram plantadas, será compensado" data-moreinfo="kg de carbono"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="2" data-sizey="1">
+      <div data-id="ranking" data-view="List" data-unordered="true" data-title="Top plantadores" data-moreinfo="# de arvores plantadas"></div>
+    </li>
+
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="facebook_likes" data-view="Number" data-title="Likes no Facebook"></div>
+    </li>
+    <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+      <div data-id="facebook_talking_about_count" data-view="Number" data-title="Pessoas falando no Facebook"></div>
+    </li>
+  </ul>
+</div>

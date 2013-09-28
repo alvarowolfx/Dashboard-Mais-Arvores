@@ -1,0 +1,40 @@
+---
+valuation: |+
+  data: {"current":70,"last":88,"id":"valuation","updatedAt":1380329800}
+
+karma: |+
+  data: {"current":54947,"last":57775,"id":"karma","updatedAt":1380329800}
+
+synergy: |+
+  data: {"value":21,"id":"synergy","updatedAt":1380329800}
+
+convergence: |+
+  data: {"points":[{"x":59,"y":8},{"x":60,"y":22},{"x":61,"y":11},{"x":62,"y":5},{"x":63,"y":17},{"x":64,"y":43},{"x":65,"y":37},{"x":66,"y":6},{"x":67,"y":27},{"x":68,"y":45}],"id":"convergence","updatedAt":1380329800}
+
+buzzwords: |+
+  data: {"items":[{"label":"Enterprise","value":7},{"label":"Paradigm shift","value":5},{"label":"Turn-key","value":9},{"label":"Streamlininess","value":9},{"label":"Exit strategy","value":9},{"label":"Leverage","value":5},{"label":"Pivoting","value":5},{"label":"Web 2.0","value":4},{"label":"Synergy","value":5}],"id":"buzzwords","updatedAt":1380329800}
+
+qtde_arvores: |+
+  data: {"current":685,"last":685,"id":"qtde_arvores","updatedAt":1380331440}
+
+ranking: |+
+  data: {"items":[{"label":"Roberta Daniela","value":100},{"label":"Grupo Mtbroker Mato Grosso","value":63},{"label":"Marcelo Moreira","value":62},{"label":"Lauro Ojeda","value":57},{"label":"Breno de Oliveira","value":50}],"id":"ranking","updatedAt":1380331440}
+
+facebook_likes: |+
+  data: {"current":3368,"id":"facebook_likes","updatedAt":1380331395}
+
+facebook_checkins: |+
+  data: {"current":null,"id":"facebook_checkins","updatedAt":1380331395}
+
+facebook_were_here_count: |+
+  data: {"current":0,"id":"facebook_were_here_count","updatedAt":1380331395}
+
+facebook_talking_about_count: |+
+  data: {"current":1826,"id":"facebook_talking_about_count","updatedAt":1380331395}
+
+top_plant: |+
+  data: {"comments":[{"name":"Lauro","body":56,"avatar":"http://graph.facebook.com/616883527/picture?type=small"}],"id":"top_plant","updatedAt":1380331440}
+
+qtde_carbono: |+
+  data: {"current":102750,"last":102750,"id":"qtde_carbono","updatedAt":1380331440}
+
