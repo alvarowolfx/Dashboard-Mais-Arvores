@@ -1,1 +1,1 @@
-Check out http://shopify.github.com/dashing for more information.
+Dashboard com informações do site www.maisarvores.com
